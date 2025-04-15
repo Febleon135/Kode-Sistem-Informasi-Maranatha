@@ -1,7 +1,7 @@
 
 public interface Peminjaman {
 
-    void peminjaman();
+    public void peminjaman();
 
-    void pengembalian();
+    public void pengembalian();
 }
